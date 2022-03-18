@@ -1,0 +1,56 @@
+{
+  "title": "Blog Content Here",
+  "image_1": "/img/blog_1.jpg",
+  "image_2": "/img/blog_7.jpg",
+  "author_1": "Junaid Hasan",
+  "author_2": "Anna Swford",
+  "date": "05 Aug, 2021",
+  "comments": "2 Comments",
+  "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+  "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
+  "text_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+  "text_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
+  "quoteText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime magnam, molestias omnis quam veritatis consectetur nihil aliquid quo culpa? Ullam molestiae id temporibus nemo inventore, at reiciendis distinctio porro atque!",
+  "quoteText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur ullam dolor, omnis maiores molestiae ducimus.",
+  "adminImage": "/img/avatar_1.png",
+  "admin": "Junaid Hasan",
+  "adminText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo eius nam facere enim, voluptas incidunt officiis molestiae, nostrum dolor? Fugit.",
+  "commentsTitle": "Recent Comments",
+  "commentsPost": "Post your Comments",
+  "postText": "Send Message",
+  "iconList": [
+    {
+      "id": 1,
+      "linkClass": "bg-white facebook",
+      "iconClass": "fab fa-facebook-f"
+    },
+    {
+      "id": 2,
+      "linkClass": "bg-white twitter",
+      "iconClass": "fab fa-twitter"
+    },
+    {
+      "id": 3,
+      "linkClass": "bg-white google-plus",
+      "iconClass": "fab fa-google-plus-g"
+    }
+  ],
+  "commentsData": [
+    {
+      "id": 1,
+      "image": "/img/avatar_2.png",
+      "author": "Jassica William",
+      "replyText": "Reply",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
+      "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "image": "/img/avatar_3.png",
+      "author": "Md. Arham",
+      "replyText": "Reply",
+      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
+      "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    }
+  ]
+}
