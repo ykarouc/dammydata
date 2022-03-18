@@ -1,56 +1,58 @@
+
 {
-  "title": "Blog Content Here",
-  "image_1": "/img/blog_1.jpg",
-  "image_2": "/img/blog_7.jpg",
-  "author_1": "Junaid Hasan",
-  "author_2": "Anna Swford",
-  "date": "05 Aug, 2021",
-  "comments": "2 Comments",
-  "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
-  "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
-  "text_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
-  "text_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
-  "quoteText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime magnam, molestias omnis quam veritatis consectetur nihil aliquid quo culpa? Ullam molestiae id temporibus nemo inventore, at reiciendis distinctio porro atque!",
-  "quoteText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur ullam dolor, omnis maiores molestiae ducimus.",
-  "adminImage": "/img/avatar_1.png",
-  "admin": "Junaid Hasan",
-  "adminText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo eius nam facere enim, voluptas incidunt officiis molestiae, nostrum dolor? Fugit.",
-  "commentsTitle": "Recent Comments",
-  "commentsPost": "Post your Comments",
-  "postText": "Send Message",
-  "iconList": [
+  "heading": "Consultation Gratuite",
+  "headingText_1": "L'équipe Digital Spread est heureuse de prendre le temps de répondre à vos questions et de partager notre expertise sur la création et le maintien d'une présence Web qui maximise votre exposition et votre engagement avec vos clients potentiels.",
+  "headingText_2": "L'équipe Digital Spread est heureuse de prendre le temps de répondre à vos questions et de partager notre expertise sur la création et le maintien d'une présence Web qui maximise votre exposition et votre engagement avec vos clients potentiels.",
+  "btnText": "Vous souhaitez en savoir plus sur ce service gratuit?",
+  "btnText_1": "Contactez-Nous ",
+  "pricingData": [
     {
       "id": 1,
-      "linkClass": "bg-white facebook",
-      "iconClass": "fab fa-facebook-f"
+      "colClass": "col-12 col-md-6",
+      "linkClass": "single-price-plan color-1 bg-hover hover-top text-center p-5",
+      "linkClass_1": "single-price-plan color-1 bg-hover hover-top dark-bg dark-shadow text-center p-5",
+      "price_badge": "",
+      "price_badge_1": "",
+      "title": "StartUP",
+      "text": "Les Stratégies marketing conçues spécialement pour les startups, exigent une consultation                                                                                                                                                                                                                                                                                            dd",
+      "price_before": "",
+      "price": "Gratuitement",
+      "price_after": "",
+      "li_1": "Vous entrez en contact avec notre équipe d'experts",
+      "li_2": "5/7 jours par semaine",
+      "li_3": "Par telephone",
+      "li_4": "Email ou Skype",
+      "listClass_1": "py-2",
+      "listClass_2": "py-2",
+      "listClass_3": "text-white py-2",
+      "listClass_4": "py-2",
+      "btnClass": "btn btn-bordered mt-3",
+      "btnClass_1": "btn btn-bordered-white mt-3",
+      "btnText": "Consultation Gratuite"
     },
     {
       "id": 2,
-      "linkClass": "bg-white twitter",
-      "iconClass": "fab fa-twitter"
-    },
-    {
-      "id": 3,
-      "linkClass": "bg-white google-plus",
-      "iconClass": "fab fa-google-plus-g"
-    }
-  ],
-  "commentsData": [
-    {
-      "id": 1,
-      "image": "/img/avatar_2.png",
-      "author": "Jassica William",
-      "replyText": "Reply",
-      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
-      "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-    },
-    {
-      "id": 2,
-      "image": "/img/avatar_3.png",
-      "author": "Md. Arham",
-      "replyText": "Reply",
-      "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
-      "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "colClass": "col-12 col-md-6 mt-4 mt-md-0",
+      "linkClass": "single-price-plan color-2 bg-hover active hover-top text-center p-5",
+      "linkClass_1": "single-price-plan color-2 bg-hover active hover-top dark-bg dark-shadow text-center p-5",
+      "price_badge": "B2B ou B2C",
+      "price_badge_1": "Recommended",
+      "title": "Entreprise",
+      "text": "Répondre à vos questions, définir des objectifs et mener des études préalables pour déterminer la stratégie appropriée pour votre affaire.",
+      "price_before": "",
+      "price": "Gratuitement",
+      "price_after": "",
+      "li_1": "Vous entrez en contact avec notre équipe d'experts",
+      "li_2": "5/7 jours par semaine",
+      "li_3": "Par telephone",
+      "li_4": "Email ou Skype",
+      "listClass_1": "py-2",
+      "listClass_2": "py-2",
+      "listClass_3": "text-white py-2",
+      "listClass_4": "text-white py-2",
+      "btnClass": "btn btn-bordered active mt-3",
+      "btnClass_1": "btn btn-bordered-white active mt-3",
+      "btnText": "Consultation Gratuite"
     }
   ]
 }
